@@ -20,7 +20,7 @@ A link to the paper will be added once the arXiv version is available.
 
 ------------
 ## Overview of Adversarial Attacks Against Automated Fact-Checking Systems
-![overview](overveiw.png)
+![overview](pipeline.png)
 
 ------------
 ## Taxonomy of Adversarial Attacks
