@@ -1,9 +1,19 @@
 # Awesome Automated Fact-Checking Attacks
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![GitHub stars](https://img.shields.io/github/stars/FanzhenLiu/awesome-automated-fact-checking-attacks?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/FanzhenLiu/awesome-automated-fact-checking-attacks?color=blue&label=Forks) 
 
-Curated resources for our paper **Adversarial Attacks Against Automated Fact-Checking: A Survey**, accepted to the main conference of EMNLP 2025. This repository includes relevant papers, implementations, and datasets.
+Curated resources for our paper [**Adversarial Attacks Against Automated Fact-Checking: A Survey**](https://arxiv.org/abs/2509.08463), accepted to the Main Conference of EMNLP 2025. This repository includes relevant papers, implementations, and datasets.
+The paper is now available on [arXiv](https://arxiv.org/abs/2509.08463). 
 
-A link to the paper will be added once the arXiv version is available.
+If you find our survey or this repository helpful in your research or projects, we kindly invite you to cite our paper:
+
+```
+@inproceedings{liu2025adversarial,
+  title={Adversarial Attacks Against Automated Fact-Checking: A Survey}, 
+  author={Fanzhen Liu and Alsharif Abuadbba and Kristen Moore and Surya Nepal and Cecile Paris and Jia Wu and Jian Yang and Quan Z. Sheng},
+  year={2025},
+  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, 
+}
+```
 
 - [Awesome Automated Fact-Checking Attacks](#awesome-Deep-Community-Detection)
   - [Overview of Adversarial Attacks Against Automated Fact-Checking Systems](#overview-of-adversarial-attacks-against-automated-fact-checking-systems)
